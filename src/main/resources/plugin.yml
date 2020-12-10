@@ -1,0 +1,6 @@
+name: BitsStocks
+version: ${project.version}
+main: me.evilterabite.bitsstocks.BitsStocks
+api-version: 1.16
+authors: [ evilterabite ]
+description: a functioning stock simulator in minecraft.

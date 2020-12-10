@@ -1,0 +1,8 @@
+##
+Stocks:
+  stn:
+    name: "Stone International"
+    openingPrice: 100
+    closingPrice: 0
+    Volatility: 0.30
+    Shares: 100
